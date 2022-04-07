@@ -8,3 +8,5 @@ The rise of international players in the NBA has been widely noted. The current 
 - The criteria internationa/American criteria used was simply whether or not the player was born in the 50 states. So Kyrie Irving and Tim Duncan are counted as "international" despite their citizenships and upbringings. 
 
 Special shoutout to [Sports Reference](https://www.sports-reference.com/) (SR), specifically [Basketball Reference](https://www.basketball-reference.com/) (BR), for all of the data on the players' minutes played, positions, and birth places. 
+
+![alt text](https://github.com/gsarajian/NBA-international/blob/main/NBA%20international%2050%20years.png?raw=true)
