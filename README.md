@@ -9,4 +9,6 @@ The rise of international players in the NBA has been widely noted. The current 
 
 Special shoutout to [Sports Reference](https://www.sports-reference.com/) (SR), specifically [Basketball Reference](https://www.basketball-reference.com/) (BR), for all of the data on the players' minutes played, positions, and birth places. 
 
-![alt text](https://github.com/gsarajian/NBA-international/blob/main/NBA%20international%2050%20years.png?raw=true)
+For an example, click on the picture below to see the changes over the last 50 years.
+
+![alt text](https://github.com/gsarajian/NBA-international/blob/main/NBA%20international%2050%20years.png?raw=false)
